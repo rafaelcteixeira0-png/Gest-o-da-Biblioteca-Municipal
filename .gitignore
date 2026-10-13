@@ -1,0 +1,23 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+*.local
+*.log
+.DS_Store
+# Não versionar a planilha de origem, extratos ou backups de dados reais.
+*.ods
+*.xls
+*.xlsx
+*.csv
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+backups/
+dados-reais/
