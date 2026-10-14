@@ -1,0 +1,8 @@
+node_modules
+dist
+package-lock.json
+playwright-report
+test-results
+# Documentos originais fornecidos: preservar o conteúdo e a formatação.
+/ESPECIFICACAO_SISTEMA_BIBLIOTECA.md
+/PLANO_MIGRACAO_SISTEMA_BIBLIOTECA.md
